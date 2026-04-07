@@ -1,6 +1,6 @@
 # AI-Based WhatsApp Message Translator with Voice Assistant
 
- Overview
+# Overview
 This project is an AI-powered tool that translates WhatsApp messages in real-time and converts them into speech to improve accessibility.
 
 # Features
