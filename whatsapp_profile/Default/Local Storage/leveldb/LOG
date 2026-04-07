@@ -1,0 +1,6 @@
+2026/04/07-13:23:53.049 8404 Reusing MANIFEST C:\TERNA\PROJECT\whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/07-13:23:53.065 8404 Recovering log #4
+2026/04/07-13:23:53.075 8404 Reusing old log C:\TERNA\PROJECT\whatsapp_profile\Default\Local Storage\leveldb/000004.log 
+2026/04/07-13:25:54.980 8404 Level-0 table #8: started
+2026/04/07-13:25:55.010 8404 Level-0 table #8: 17174 bytes OK
+2026/04/07-13:25:55.015 8404 Delete type=0 #4
